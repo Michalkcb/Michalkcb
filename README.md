@@ -24,6 +24,10 @@ michalkcb@gmail.com
 
 
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Michalkcb&hide=stars,prs,issues,contribs&layout=compact&theme=transparent)](https://github.com/Michalkcb/github-readme-stats)
+
+<span>
+<img height="150px" src="https://github-readme-stats.vercel.app/api?username=Michalkcb&show_icons=true&locale=en&theme=transparent" alt="Michalkcb" />
+</span>
 <!--
 **Michalkcb/Michalkcb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
