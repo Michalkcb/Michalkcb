@@ -6,15 +6,18 @@
 
 - 🌱 I’m currently learning 
 
-    Now i'm in the process of learning React
+    Now I'm in the process of learning React
+
 
 - 🤔 I’m looking for help with
 
     Start working as frontend developer
 
+
 - 📫 How to reach me
 
 michalkcb@gmail.com
+
 
 ## Stuff I know 🤓
 [![My Skills](https://skillicons.dev/icons?i=git,github,js,react,nodejs,html,css,sass,tailwind,bootstrap,raspberrypi,vscode)](https://skillicons.dev)
@@ -27,7 +30,7 @@ michalkcb@gmail.com
 </span>
 
 <span>
-<img height="150px" src="https://github-readme-stats.vercel.app/api?username=Michalkcb&show_icons=true&locale=en&theme=transparent&hide=prs" alt="Michalkcb" />
+<img height="150px" src="https://github-readme-stats.vercel.app/api?username=Michalkcb&show_icons=true&locale=en&theme=transparent&hide=prs,issues" alt="Michalkcb" />
 </span>
 
 <!-- **Michalkcb/Michalkcb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
