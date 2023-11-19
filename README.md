@@ -21,6 +21,11 @@ michalkcb@gmail.com
 
 ## Stuff I want to leard 🤓
 [![My Skills](https://skillicons.dev/icons?i=mongodb,react,angular,sql,php)](https://skillicons.dev)
+
+
+<span>
+<img  height="150px" src="https://github-readme-stats.vercel.app/api/top-langs?username=Michalkcb&show_icons=true&locale=en&layout=compact&theme=transparent" alt="Michalkcb" /> 
+</span>
 <!--
 **Michalkcb/Michalkcb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
