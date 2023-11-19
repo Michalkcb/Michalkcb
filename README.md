@@ -27,10 +27,10 @@ michalkcb@gmail.com
 </span>
 
 <span>
-<img height="150px" src="https://github-readme-stats.vercel.app/api?username=Michalkcb&show_icons=true&locale=en&theme=transparent" alt="Michalkcb" />
+<img height="150px" src="https://github-readme-stats.vercel.app/api?username=Michalkcb&show_icons=true&locale=en&theme=transparent&hide=prs" alt="Michalkcb" />
 </span>
-<!--
-**Michalkcb/Michalkcb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+<!-- **Michalkcb/Michalkcb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -41,5 +41,4 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ⚡ Fun fact: ... -->
