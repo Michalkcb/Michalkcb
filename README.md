@@ -2,16 +2,18 @@
 
 - 🔭 I’m currently working on
 
-        Changing the layout of the home page
+        Changing the layout of the home page.
+        JavaScript portfolio projects.
+        React portfolio projects.
 
 - 🌱 I’m currently learning 
 
-    Now I'm in the process of learning React
+    Now I'm in the process of learning React.
 
 
-- 🤔 I’m looking for help with
+- 🤔 I’m looking for help
 
-    Start working as frontend developer
+    To start working as Front-end developer.
 
 
 - 📫 How to reach me
