@@ -20,9 +20,11 @@ michalkcb@gmail.com
 [![My Skills](https://skillicons.dev/icons?i=git,github,js,react,nodejs,html,css,sass,tailwind,bootstrap,raspberrypi,vscode)](https://skillicons.dev)
 
 ## Stuff I want to leard 🤓
-[![My Skills](https://skillicons.dev/icons?i=mongodb,react,angular,sql,php)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mongodb,react,angular,mysql,php)](https://skillicons.dev)
 
-
+<span>
+<img  height="150px" src="https://github-readme-stats.vercel.app/api/top-langs?username=Michalkcb&show_icons=true&locale=en&layout=compact&theme=transparent" alt="Michalkcb" /> 
+</span>
 
 <span>
 <img height="150px" src="https://github-readme-stats.vercel.app/api?username=Michalkcb&show_icons=true&locale=en&theme=transparent" alt="Michalkcb" />
