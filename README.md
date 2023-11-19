@@ -23,7 +23,7 @@ michalkcb@gmail.com
 [![My Skills](https://skillicons.dev/icons?i=mongodb,react,angular,sql,php)](https://skillicons.dev)
 
 
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Michalkcb)](https://github.com/Michalkcb/github-readme-stats)
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Michalkcb&hide=stars,commits,issues,contribs)](https://github.com/Michalkcb/github-readme-stats)
 <!--
 **Michalkcb/Michalkcb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
