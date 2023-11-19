@@ -1,13 +1,20 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hello+I'm+Michael)](https://git.io/typing-svg)
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on
+
         Changing the layout of the home page
 
 - 🌱 I’m currently learning 
+
     Now i'm in the process of learning React
 
-- 🤔 I’m looking for help with ...
-- 📫 How to reach me: ...
+- 🤔 I’m looking for help with
+
+    Start working as frontend developer
+
+- 📫 How to reach me
+
+michalkcb@gmail.com
 
 ## Stuff I know 🤓
 [![My Skills](https://skillicons.dev/icons?i=git,github,js,react,nodejs,html,css,sass,tailwind,bootstrap,raspberrypi,vscode)](https://skillicons.dev)
