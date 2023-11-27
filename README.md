@@ -13,7 +13,7 @@
 
 - 🤔 I’m looking for help
 
-    To start working as Front-end developer.
+    To start carrier as a Front-end developer.
 
 
 - 📫 How to reach me
