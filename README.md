@@ -8,12 +8,10 @@
 
 - 🌱 I’m currently learning 
 
-    Now I'm in the process of learning React.
+    Now I'm in the process of learning React & C.
 
 
-- 🤔 I’m looking for help
-
-    To start carrier as a Front-end developer.
+- 🤔 I’ll code for free!!!
 
 
 - 📫 How to reach me
