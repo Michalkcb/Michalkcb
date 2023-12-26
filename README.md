@@ -6,14 +6,14 @@
         JavaScript portfolio projects.
         React portfolio projects.
 
-- 🌱 I’m currently learning 
-
-    Now I'm in the process of learning React.
+- 🌱 I’m currently learning:
+    In Proggramming at 42 Warsaw.
+    Now I'm in the process of learning C, JavaScript and React.
 
 
 - 🤔 I’m looking for help
 
-    To start working as Front-end developer.
+    To find opportunity to make commercial project as Front-end developer. (I can code for free :)
 
 
 - 📫 How to reach me
