@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning:
     In Proggramming at 42 Warsaw.
-    Now I'm in the process of learning C, JavaScript and React.
+    Now I'm in the process of learning C, JavaScript and React & C.
 
 
 - 🤔 I’m looking for help
@@ -24,7 +24,7 @@ michalkcb@gmail.com
 ## Stuff I know 🤓
 [![My Skills](https://skillicons.dev/icons?i=git,github,js,react,nodejs,html,css,sass,tailwind,bootstrap,raspberrypi,vscode)](https://skillicons.dev)
 
-## Stuff I want to leard 🤓
+## Stuff I want to learn 🤓
 [![My Skills](https://skillicons.dev/icons?i=mongodb,react,angular,mysql,php)](https://skillicons.dev)
 
 <span>
