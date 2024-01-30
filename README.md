@@ -13,7 +13,7 @@
 
 - 🤔 I’m looking for help
 
-    To find opportunity to make commercial project as Front-end developer. (I can code for free :)
+    To find opportunity to make commercial projects as Front-end developer.
 
 
 - 📫 How to reach me
