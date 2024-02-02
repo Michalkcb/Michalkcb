@@ -23,7 +23,7 @@ michalkcb@gmail.com
 Codewars Profile Badges
 <br>
 <span>
-<img src="https://www.codewars.com/users/Michalkcb/badges/large" alt="Michalkcb" /> 
+  <img src="https://www.codewars.com/users/Michalkcb/badges/large" alt="Michalkcb" />
 </span>
 
 ## Stuff I know 🤓
