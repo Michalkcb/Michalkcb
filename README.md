@@ -20,6 +20,10 @@
 
 michalkcb@gmail.com
 
+Codewars Profile Badges
+<span>
+<img src="https://www.codewars.com/users/Michalkcb/badges/large" alt="Michalkcb" /> 
+</span>
 
 ## Stuff I know 🤓
 [![My Skills](https://skillicons.dev/icons?i=git,github,js,react,nodejs,html,css,sass,tailwind,bootstrap,raspberrypi,vscode)](https://skillicons.dev)
@@ -36,10 +40,7 @@ michalkcb@gmail.com
 <span>
 <img height="150px" src="https://github-readme-stats.vercel.app/api?username=Michalkcb&show_icons=true&locale=en&theme=transparent&hide=prs,issues,contribs" alt="Michalkcb" />
 </span>
-<span>
-Codewars Profile Badges
-<img src="https://www.codewars.com/users/Michalkcb/badges/large" alt="Michalkcb" /> 
-</span>
+
 
 <!-- **Michalkcb/Michalkcb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
