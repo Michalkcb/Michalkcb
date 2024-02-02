@@ -28,15 +28,16 @@ michalkcb@gmail.com
 [![My Skills](https://skillicons.dev/icons?i=mongodb,react,angular,mysql,php)](https://skillicons.dev)
 
 
-<span>
-<img  height="150px" src="https://www.codewars.com/users/Michalkcb/badges/large" alt="Michalkcb" /> 
-</span>
+
 <span>
 <img  height="150px" src="https://github-readme-stats.vercel.app/api/top-langs?username=Michalkcb&show_icons=true&locale=en&layout=compact&theme=transparent" alt="Michalkcb" /> 
 </span>
 
 <span>
 <img height="150px" src="https://github-readme-stats.vercel.app/api?username=Michalkcb&show_icons=true&locale=en&theme=transparent&hide=prs,issues,contribs" alt="Michalkcb" />
+</span>
+<span>
+<img src="https://www.codewars.com/users/Michalkcb/badges/large" alt="Michalkcb" /> 
 </span>
 
 <!-- **Michalkcb/Michalkcb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
