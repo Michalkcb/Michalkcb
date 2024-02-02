@@ -37,6 +37,7 @@ michalkcb@gmail.com
 <img height="150px" src="https://github-readme-stats.vercel.app/api?username=Michalkcb&show_icons=true&locale=en&theme=transparent&hide=prs,issues,contribs" alt="Michalkcb" />
 </span>
 <span>
+Codewars Profile Badges
 <img src="https://www.codewars.com/users/Michalkcb/badges/large" alt="Michalkcb" /> 
 </span>
 
