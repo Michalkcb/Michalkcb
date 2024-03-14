@@ -6,8 +6,7 @@
         JavaScript portfolio projects.
         React portfolio projects.
 
-- 🌱 I’m currently learning:
-    In Proggramming at 42 Warsaw.
+- 🌱 🌱 I’m currently a software engineer under training at 42 Warsaw after successfully completing the Piscine.
     Now I'm in the process of learning C, JavaScript and React.
 
 
