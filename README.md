@@ -2,6 +2,8 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hello+I'm+Michael)](https://git.io/typing-svg)
 <hr>
 
+<h3>
+        
 - 🔭 I’m currently working on
 
         JavaScript portfolio projects.
@@ -18,6 +20,7 @@
 - 📫 How to reach me
 
 michalkcb@gmail.com
+</h3>
 <hr>
 Codewars Profile Badges
 <br>
