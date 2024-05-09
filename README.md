@@ -2,7 +2,6 @@
 
 - 🔭 I’m currently working on
 
-        Changing the layout of the home page.
         JavaScript portfolio projects.
         React portfolio projects.
 
