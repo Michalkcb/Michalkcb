@@ -18,7 +18,7 @@
 - 📫 How to reach me
 
 michalkcb@gmail.com
-
+<hr>
 Codewars Profile Badges
 <br>
 <span>
