@@ -1,13 +1,12 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hello+I'm+Michael)](https://git.io/typing-svg)
-        
+<hr>
 
 - 🔭 I’m currently working on
 
         JavaScript portfolio projects.
         React portfolio projects.
-
-- 🌱 🌱 I’m currently a software engineer under training at <a href="https://42warsaw.pl/">42 Warsaw</a> after successfully completing the Piscine.<br>
+ I’m currently a software engineer under training at <a href="https://42warsaw.pl/">42 Warsaw</a> after successfully completing the Piscine.<br>
     Now I'm in the process of learning C, JavaScript and React.
 
 
