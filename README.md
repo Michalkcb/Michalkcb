@@ -22,7 +22,7 @@
 michalkcb@gmail.com
 </h3>
 <hr>
-Codewars Profile Badges
+JS Codewars Profile Badges
 <br>
 <span>
   <img src="https://www.codewars.com/users/Michalkcb/badges/large" alt="Michalkcb" />
