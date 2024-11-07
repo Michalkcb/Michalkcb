@@ -12,9 +12,7 @@
     Now I'm in the process of learning C, JavaScript and React.
 
 
-- 🤔 I’m looking for help
-
-    To find opportunity to make commercial projects as Front-end developer.
+- 🤔 I’m looking opportunity to make commercial projects as Front-end developer.
   
 <div class="markdown-heading" dir="auto">
         <h2 class="heading-element" dir="auto">42 Common Core Student</h2>
