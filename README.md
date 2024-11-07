@@ -5,6 +5,7 @@
 <h3>
         
 - 🔭 I’m currently working on <br>
+
         42_Philosophers<br>
         JavaScript portfolio projects.<br>
         React portfolio projects.<br>
