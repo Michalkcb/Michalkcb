@@ -5,7 +5,7 @@
 <h3>
         
 - 🔭 I’m currently working on
-
+        42_Philosophers
         JavaScript portfolio projects.
         React portfolio projects.
  I’m currently a software engineer under training at <a href="https://42warsaw.pl/">42 Warsaw</a> after successfully completing the Piscine.<br>
