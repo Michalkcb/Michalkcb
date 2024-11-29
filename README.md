@@ -92,17 +92,13 @@
             <th align="left">&nbsp; 42 to Python</th>
         </tr>
     </thead>    
-        <thead>
-        <tr>
-            <th align="left">&nbsp; Other</th>
-        </tr>
-    </thead>
     <tbody>
         <tr>
             <td><a href="https://github.com/Michalkcb/42_C_To_Python/tree/main/Egzam/Rank-02">Exam 02 in Python</a></td>
             <td><a href="https://github.com/Michalkcb/Python/tree/main/wyzwaniePython/ticTacToe">Tic Tac Toe</a></td>
         </tr>
         <tr>
+        <th align="left">&nbsp; Other</th>
             <td><a href="https://github.com/Michalkcb/42_Python_Libft">42 Libft in Python</a></td>
             <td></td>
         </tr>
