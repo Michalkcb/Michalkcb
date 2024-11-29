@@ -91,6 +91,11 @@
         <tr>
             <th align="left">&nbsp; 42 to Python</th>
         </tr>
+    </thead>    
+        <thead>
+        <tr>
+            <th align="left">&nbsp; Other</th>
+        </tr>
     </thead>
     <tbody>
         <tr>
