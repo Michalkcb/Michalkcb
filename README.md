@@ -73,6 +73,44 @@
 </td>
 </tr></tbody></table></markdown-accessiblity-table>
 
+<markdown-accessiblity-table data-catalyst="">
+        <table tabindex="0">
+<tbody><tr>
+<th align="left"> &nbsp; Python Projects</th>
+</tr>
+<tr>
+<td>
+<table>
+<thead>
+<tr>
+<th>42 to Python</th>
+<th>Other</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><a href="https://github.com/Michalkcb/42_Warsaw_Core/tree/main/libft">Libft</a></td>
+<td>Born 2 be root</td>
+<td><a href="https://github.com/Michalkcb/42_Minitalk">MiniTalk</a></td>
+<td><a href="https://github.com/Michalkcb/42_philosophers">Philosophers</a></td>
+<td>Not yet</td>
+<td>Not yet</td>
+<td>Not yet</td>
+</tr>
+<tr>
+<td></td>
+<td><a href="https://github.com/Michalkcb/42_C_To_Python/tree/main/Egzam/Rank-02">Printf</a></td>
+<td><a href="https://github.com/Michalkcb/42_so_long">So_Long</a></td>
+<td><a href="https://github.com/Michalkcb/42_Minishell">Minishell</a></td>
+<td>Not yet</td>
+<td>Not yet</td>
+<td></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr></tbody></table></markdown-accessiblity-table>
+
 - 📫 How to reach me
 
 michalkcb@gmail.com
