@@ -89,21 +89,13 @@
 </thead>
 <tbody>
 <tr>
-<td><a href="https://github.com/Michalkcb/42_Warsaw_Core/tree/main/libft">Libft</a></td>
-<td>Born 2 be root</td>
-<td><a href="https://github.com/Michalkcb/42_Minitalk">MiniTalk</a></td>
-<td><a href="https://github.com/Michalkcb/42_philosophers">Philosophers</a></td>
-<td>Not yet</td>
-<td>Not yet</td>
-<td>Not yet</td>
+<td><a href="https://github.com/Michalkcb/42_C_To_Python/tree/main/Egzam/Rank-02">Exam 02 in Python</a></td>
+<td><a href="https://github.com/Michalkcb/42_Python_Libft">42 Libft in Python</a></td>
 </tr>
 <tr>
 <td></td>
-<td><a href="https://github.com/Michalkcb/42_C_To_Python/tree/main/Egzam/Rank-02">Printf</a></td>
-<td><a href="https://github.com/Michalkcb/42_so_long">So_Long</a></td>
-<td><a href="https://github.com/Michalkcb/42_Minishell">Minishell</a></td>
-<td>Not yet</td>
-<td>Not yet</td>
+<td><a href="https://github.com/Michalkcb/42_C_To_Python/tree/main/Egzam/Rank-02">Exam 02 in Python</a></td>
+<td><a href="https://github.com/Michalkcb/42_Python_Libft">42 Libft in Python</a></td>
 <td></td>
 </tr>
 </tbody>
