@@ -89,7 +89,7 @@
 <table>
     <thead>
         <tr>
-            <th align="left">&nbsp; Python Projects</th>
+            <th align="left">&nbsp; 42 to Python</th>
             <th align="left">&nbsp; Other</th>
         </tr>
     </thead>
