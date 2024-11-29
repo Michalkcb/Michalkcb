@@ -83,26 +83,27 @@
 <tbody><tr>
 <th align="left"> &nbsp; Python Projects</th>
 </tr>
+        
 <tr>
 <td>
 <table>
-<thead>
-<tr>
-<th>42 to Python</th>
-<th>Other</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td><a href="https://github.com/Michalkcb/42_C_To_Python/tree/main/Egzam/Rank-02">Exam 02 in Python</a></td>
-<td><a href="https://github.com/Michalkcb/42_Python_Libft">42 Libft in Python</a></td>
-</tr>
-<tr>
-<td></td>
-<td><a href="https://github.com/Michalkcb/Python/tree/main/wyzwaniePython/ticTacToe">Tic Tac Toe</a></td>
-</tr>
-</tbody>
+    <thead>
+        <tr>
+            <th align="left">&nbsp; Python Projects</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td><a href="https://github.com/Michalkcb/42_C_To_Python/tree/main/Egzam/Rank-02">Exam 02 in Python</a></td>
+            <td><a href="https://github.com/Michalkcb/Python/tree/main/wyzwaniePython/ticTacToe">Tic Tac Toe</a></td>
+        </tr>
+        <tr>
+            <td><a href="https://github.com/Michalkcb/42_Python_Libft">42 Libft in Python</a></td>
+            <td></td>
+        </tr>
+    </tbody>
 </table>
+
 </td>
 </tr></tbody></table></markdown-accessiblity-table>
 
