@@ -73,6 +73,11 @@
 </td>
 </tr></tbody></table></markdown-accessiblity-table>
 
+
+
+
+
+
 <markdown-accessiblity-table data-catalyst="">
         <table tabindex="0">
 <tbody><tr>
@@ -94,9 +99,7 @@
 </tr>
 <tr>
 <td></td>
-<td><a href="https://github.com/Michalkcb/42_C_To_Python/tree/main/Egzam/Rank-02">Exam 02 in Python</a></td>
-<td><a href="https://github.com/Michalkcb/42_Python_Libft">42 Libft in Python</a></td>
-<td></td>
+<td><a href="https://github.com/Michalkcb/Python/tree/main/wyzwaniePython/ticTacToe">Tic Tac Toe</a></td>
 </tr>
 </tbody>
 </table>
