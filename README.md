@@ -102,7 +102,6 @@
         <tr>
             <td><a href="https://github.com/Michalkcb/42_Python_Libft">42 Libft in Python</a></td>
             <td><a href="https://github.com/Michalkcb/Python/tree/main/even%26odd">Even and odd</a></td>
-            <td></td>
         </tr>
     </tbody>
 </table>
