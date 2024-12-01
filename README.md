@@ -76,8 +76,6 @@
 
 
 
-
-
 <div class="markdown-heading" dir="auto">
         <h2 class="heading-element" dir="auto">Converting C knowledge to Python</h2>
 <markdown-accessiblity-table data-catalyst="">
