@@ -6,7 +6,6 @@
         
 - 🔭 I’m currently working on <br>
 
-
         42 Warsaw: 42_Philosophers
         Harvard University: Introduction to Computer Science
  I’m currently a software engineer under training at <a href="https://42warsaw.pl/">42 Warsaw</a> after successfully completing the Piscine.<br>
