@@ -54,7 +54,7 @@
 <td><a href="https://github.com/Michalkcb/42_Warsaw_Core/tree/main/ft_printf">Printf</a></td>
 <td><a href="https://github.com/Michalkcb/42_so_long">So_Long</a></td>
 <td><a href="https://github.com/Michalkcb/42_Minishell">Minishell</a></td>
-<td>Not yet</td>
+<td>CPP</td>
 <td>Not yet</td>
 <td></td>
 </tr>
@@ -63,7 +63,7 @@
 <td><a href="https://github.com/Michalkcb/42_Warsaw_Core/tree/main/get_next_line">Get_Next_Line</a></td>
 <td><a href="https://github.com/Michalkcb/42_push_swap">Push_Swap</a></td>
 <td></td>
-<td>Not yet</td>
+<td>NetPractice</td>
 <td></td>
 <td></td>
 </tr>
