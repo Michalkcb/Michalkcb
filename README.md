@@ -45,7 +45,7 @@
 <td>Born 2 be root</td>
 <td><a href="https://github.com/Michalkcb/42_Minitalk">MiniTalk</a></td>
 <td><a href="https://github.com/Michalkcb/42_philosophers">Philosophers</a></td>
-<td>cub3D</td>
+<td><a href="https://github.com/Michalkcb/cub3d">cub3d</a></td>       
 <td>Not yet</td>
 <td>Not yet</td>
 </tr>
