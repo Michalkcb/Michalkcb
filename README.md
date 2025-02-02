@@ -63,7 +63,7 @@
 <td><a href="https://github.com/Michalkcb/42_Warsaw_Core/tree/main/get_next_line">Get_Next_Line</a></td>
 <td><a href="https://github.com/Michalkcb/42_push_swap">Push_Swap</a></td>
 <td></td>
-<td>NetPractice</td>
+<td><a href="https://github.com/Michalkcb/NetPractice">NetPractice</a></td>
 <td></td>
 <td></td>
 </tr>
