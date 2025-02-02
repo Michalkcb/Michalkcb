@@ -54,7 +54,8 @@
 <td><a href="https://github.com/Michalkcb/42_Warsaw_Core/tree/main/ft_printf">Printf</a></td>
 <td><a href="https://github.com/Michalkcb/42_so_long">So_Long</a></td>
 <td><a href="https://github.com/Michalkcb/42_Minishell">Minishell</a></td>
-<td>CPP</td>
+<td><a href="https://github.com/Michalkcb/cpp_patrt_1">C++</a></td>
+        
 <td>Not yet</td>
 <td></td>
 </tr>
