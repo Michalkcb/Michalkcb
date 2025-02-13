@@ -117,7 +117,7 @@ michalkcb@gmail.com
 JS Codewars Profile Badges
 <br>
 <span>
-<a href="https://www.codewars.com/users/Michalkcb" target="blank">
+<a href="https://www.codewars.com/users/Michalkcb" target="_blank">
   <img src="https://www.codewars.com/users/Michalkcb/badges/large" alt="Michalkcb"/>
 </a>
         <!--https://www.codewars.com/users/Michalkcb-->
