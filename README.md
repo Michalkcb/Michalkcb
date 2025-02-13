@@ -118,6 +118,7 @@ JS Codewars Profile Badges
 <br>
 <span>
   <img src="https://www.codewars.com/users/Michalkcb/badges/large" alt="Michalkcb" />
+        <!--https://www.codewars.com/users/Michalkcb-->
 </span>
 
 ## Stuff I know 🤓
