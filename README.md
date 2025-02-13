@@ -118,7 +118,7 @@ JS Codewars Profile Badges
 <br>
 <span>
 <a href="https://www.codewars.com/users/Michalkcb">
-  <img src="https://www.codewars.com/users/Michalkcb/badges/large" alt="Michalkcb" />
+  <img src="https://www.codewars.com/users/Michalkcb/badges/large" alt="Michalkcb" target = blank/>
 </a>
         <!--https://www.codewars.com/users/Michalkcb-->
 </span>
