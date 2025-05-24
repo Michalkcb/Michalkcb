@@ -127,7 +127,7 @@ JS Codewars Profile Badges
 [![My Skills](https://skillicons.dev/icons?i=js,c,cpp,react,git,github,nodejs,html,css,sass,tailwind,bootstrap,raspberrypi,vscode)](https://skillicons.dev)
 
 ## Stuff I want to learn 🤓
-[![My Skills](https://skillicons.dev/icons?i=mongodb,react,angular,mysql,php)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,mongodb,react,angular,mysql,php)](https://skillicons.dev)
 
 
 
