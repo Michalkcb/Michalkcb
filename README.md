@@ -11,7 +11,6 @@
     Now I'm in the process of learning C, JavaScript and React.
 
 
-
 - 🤔 I’m looking opportunity to make commercial projects as Front-end developer.
   
 <div class="markdown-heading" dir="auto">
