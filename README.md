@@ -46,7 +46,7 @@
 <td><a href="https://github.com/Michalkcb/42_Minitalk">MiniTalk</a></td>
 <td><a href="https://github.com/Michalkcb/42_philosophers">Philosophers</a></td>
 <td><a href="https://github.com/Michalkcb/cub3d">cub3d</a></td>       
-<td>Not yet</td>
+<td><a href="https://github.com/Michalkcb/cpp_patrt_1">C++</a></td>
 <td>Not yet</td>
 </tr>
 <tr>
