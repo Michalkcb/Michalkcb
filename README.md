@@ -64,7 +64,7 @@
 <td><a href="https://github.com/Michalkcb/42_push_swap">Push_Swap</a></td>
 <td></td>
 <td><a href="https://github.com/Michalkcb/NetPractice">NetPractice</a></td>
-<td><a href="https://github.com/Michalkcb/NetPractice">Inception</a></td>
+<td><a href="https://github.com/Michalkcb/Inception">Inception</a></td>
 <td></td>
 </tr>
 </tbody>
