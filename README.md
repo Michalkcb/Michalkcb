@@ -46,7 +46,7 @@
 <td><a href="https://github.com/Michalkcb/42_philosophers">Philosophers</a></td>
 <td><a href="https://github.com/Michalkcb/cub3d">cub3d</a></td>       
 <td><a href="https://github.com/Michalkcb/CPP_Modules">C++</a></td>
-<td>Not yet</td>
+<td><a href="https://github.com/Michalkcb/ft_transcendence">ft_transcendence</a></td>
 </tr>
 <tr>
 <td></td>
